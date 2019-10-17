@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
-    "gh-pages": "^2.1.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-router": "^4.2.0",
@@ -19,5 +18,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://henrysteinitz.github.io"
+  "homepage": "https://henrysteinitz.github.io/website",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
 }

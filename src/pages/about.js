@@ -19,15 +19,15 @@ class About extends Component {
 				</p>
 				<h2>Links</h2>
 				<p class="links">
-					<a class="link nowrap" href="cv.pdf"><img class="link-icon" src="icons/resume.png" /><span>CV</span></a> &nbsp;&nbsp;
+					<a class="link nowrap" href="cv.pdf"><img class="link-icon" src="public/icons/resume.png" /><span>CV</span></a> &nbsp;&nbsp;
 					 &nbsp;&nbsp;&nbsp;&nbsp;
-					<a class="link nowrap" href="https://www.github.com/henrysteinitz"><img class="link-icon" src="icons/github.png" /><span>GitHub</span></a> &nbsp;&nbsp;
+					<a class="link nowrap" href="https://www.github.com/henrysteinitz"><img class="link-icon" src="public/icons/github.png" /><span>GitHub</span></a> &nbsp;&nbsp;
 					 &nbsp;&nbsp;&nbsp;&nbsp;
-					<a class="link nowrap" href="https://www.linkedin.com/in/henrysteinitz"><img class="link-icon linkedin" src="icons/linkedin.png" /><span>LinkedIn</span></a>&nbsp;&nbsp;
+					<a class="link nowrap" href="https://www.linkedin.com/in/henrysteinitz"><img class="link-icon linkedin" src="public/icons/linkedin.png" /><span>LinkedIn</span></a>&nbsp;&nbsp;
 					 &nbsp;&nbsp;&nbsp;&nbsp;
-					<a class="link nowrap" href="https://www.soundcloud.com/phtgrphy"><img id="sc" class="link-icon" src="icons/soundcloud_copyrighted.png" /><span>SoundCloud</span></a>&nbsp;&nbsp;
+					<a class="link nowrap" href="https://www.soundcloud.com/phtgrphy"><img id="sc" class="link-icon" src="public/icons/soundcloud_copyrighted.png" /><span>SoundCloud</span></a>&nbsp;&nbsp;
 					 &nbsp;&nbsp;&nbsp;&nbsp;
-					<a class="link nowrap" href="https://www.instagram.com/henrysteinitz"><img id="sc" class="link-icon" src="icons/instagram.png" /><span>Instagram</span></a>&nbsp;&nbsp;
+					<a class="link nowrap" href="https://www.instagram.com/henrysteinitz"><img id="sc" class="link-icon" src="public/icons/instagram.png" /><span>Instagram</span></a>&nbsp;&nbsp;
 					 &nbsp;&nbsp;&nbsp;&nbsp;
 						
 				</p>

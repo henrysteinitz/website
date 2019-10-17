@@ -10,8 +10,8 @@ class Projects extends Component {
 				language, non-Euclidean variables with Riemannian gradient descent, and 
 				built-in visualization.</p>
 				<a href="http://henrysteinitz.com/neura"><h3>MLP Visualizer</h3></a>
-				<img class="mlp" width="224px" src="mlp3.png" />
-				<img class="mlp" width="270px" src="mlp2.png" />
+				<img class="mlp" width="224px" src="public/mlp3.png" />
+				<img class="mlp" width="270px" src="public/mlp2.png" />
 				<p>This is a tool for visualizing computation 
 				and backpropagation in multilayer perceptrons. 
 				Users can specify a rule for the perceptron to 
